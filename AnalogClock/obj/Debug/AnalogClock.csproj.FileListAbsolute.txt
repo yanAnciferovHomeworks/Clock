@@ -1,0 +1,15 @@
+C:\Users\Asus\Desktop\Clock\AnalogClock\bin\Debug\AnalogClock.dll
+C:\Users\Asus\Desktop\Clock\AnalogClock\bin\Debug\AnalogClock.pdb
+C:\Users\Asus\Desktop\Clock\AnalogClock\obj\Debug\AnalogClock.Clock.resources
+C:\Users\Asus\Desktop\Clock\AnalogClock\obj\Debug\AnalogClock.csproj.GenerateResource.Cache
+C:\Users\Asus\Desktop\Clock\AnalogClock\obj\Debug\AnalogClock.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Clock\AnalogClock\obj\Debug\AnalogClock.dll
+C:\Users\Asus\Desktop\Clock\AnalogClock\obj\Debug\AnalogClock.pdb
+C:\Users\Asus\Desktop\AnalogClock\bin\Debug\AnalogClock.dll
+C:\Users\Asus\Desktop\AnalogClock\bin\Debug\AnalogClock.pdb
+C:\Users\Asus\Desktop\AnalogClock\obj\Debug\AnalogClock.Clock.resources
+C:\Users\Asus\Desktop\AnalogClock\obj\Debug\AnalogClock.csproj.GenerateResource.Cache
+C:\Users\Asus\Desktop\AnalogClock\obj\Debug\AnalogClock.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\AnalogClock\obj\Debug\AnalogClock.dll
+C:\Users\Asus\Desktop\AnalogClock\obj\Debug\AnalogClock.pdb
+C:\Users\Asus\Desktop\AnalogClock\obj\Debug\AnalogClock.csprojResolveAssemblyReference.cache
